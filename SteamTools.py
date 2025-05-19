@@ -1,9 +1,23 @@
 #!/usr/bin/python
+@echo off
+title FIX TOOL
+color 0B
+cls
+
+:: Efect 3D ASCII Art - FIX TOOL
+echo.
+echo      ███████╗██╗██╗  ██╗    ████████╗ ██████╗  ██████╗ ██╗     
+echo      ██╔════╝██║╚██╗██╔╝    ╚══██╔══╝██╔═══██╗██╔═══██╗██║     
+echo      █████╗  ██║ ╚███╔╝        ██║   ██║   ██║██║   ██║██║     
+echo      ██╔══╝  ██║ ██╔██╗        ██║   ██║   ██║██║   ██║██║     
+echo      ██║     ██║██╔╝ ██╗       ██║   ╚██████╔╝╚██████╔╝███████╗
+echo      ╚═╝     ╚═╝╚═╝  ╚═╝       ╚═╝    ╚═════╝  ╚═════╝ ╚══════╝
+pause
 
 #===============================================================================
-# Steam Tools
-# -- by Edward KLUTCH Knowles --
-# --- @NedKnowles on twitter ---
+# Steam Fix Tools
+# -- Steam Fix Comunity Bro!!! --
+# ---by.@Negrull ---
 # 
 # To compile from source you will need:
 # python 2.7 32bit
